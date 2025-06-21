@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf /var/www/SQL.lock
+echo -e "\033[34mFAS数据库管理登录开启成功！\033[0m"
+exit;0

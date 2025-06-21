@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf /var/www/FAS.lock
+echo -e "\033[34mFAS后台管理登录开启成功！\033[0m"
+exit;0
